@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jing Shao on Junjie Yan</title>
+    <link>/authors/jing-shao/</link>
+    <description>Recent content in Jing Shao on Junjie Yan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="/authors/jing-shao/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Video Generation from Single Semantic Label Map</title>
+      <link>/publication/dblp-confcvprpanwjsy-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dblp-confcvprpanwjsy-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring Disentangled Feature Representation Beyond Face Identification</title>
+      <link>/publication/dblp-confcvpr-0015-wssyw-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dblp-confcvpr-0015-wssyw-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Localization Guided Learning for Pedestrian Attribute Recognition</title>
+      <link>/publication/dblp-confbmvc-liu-lys-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dblp-confbmvc-liu-lys-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-Label Image Classification via Knowledge Distillation from Weakly-Supervised Detection</title>
+      <link>/publication/dblp-confmm-liu-ssyxp-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dblp-confmm-liu-ssyxp-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Practical Block-Wise Neural Network Architecture Generation</title>
+      <link>/publication/dblp-confcvpr-zhong-ywsl-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dblp-confcvpr-zhong-ywsl-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HydraPlus-Net: Attentive Deep Features for Pedestrian Analysis</title>
+      <link>/publication/dblp-conficcv-liu-ztssyyw-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dblp-conficcv-liu-ztssyyw-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Orientation Invariant Feature Embedding and Spatial Temporal Regularization for Vehicle Re-identification</title>
+      <link>/publication/dblp-conficcv-wang-tlyysywlw-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dblp-conficcv-wang-tlyysywlw-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spindle Net: Person Re-identification with Human Body Region Guided Feature Decomposition and Fusion</title>
+      <link>/publication/dblp-confcvpr-zhao-tssyywt-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dblp-confcvpr-zhao-tssyywt-17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

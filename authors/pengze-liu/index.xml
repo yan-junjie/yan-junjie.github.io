@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pengze Liu on Junjie Yan</title>
+    <link>/authors/pengze-liu/</link>
+    <description>Recent content in Pengze Liu on Junjie Yan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="/authors/pengze-liu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Localization Guided Learning for Pedestrian Attribute Recognition</title>
+      <link>/publication/dblp-confbmvc-liu-lys-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dblp-confbmvc-liu-lys-18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

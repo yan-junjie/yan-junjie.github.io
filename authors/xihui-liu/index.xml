@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xihui Liu on Junjie Yan</title>
+    <link>/authors/xihui-liu/</link>
+    <description>Recent content in Xihui Liu on Junjie Yan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="/authors/xihui-liu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Localization Guided Learning for Pedestrian Attribute Recognition</title>
+      <link>/publication/dblp-confbmvc-liu-lys-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dblp-confbmvc-liu-lys-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HydraPlus-Net: Attentive Deep Features for Pedestrian Analysis</title>
+      <link>/publication/dblp-conficcv-liu-ztssyyw-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dblp-conficcv-liu-ztssyyw-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Object Detection in Videos with Tubelet Proposal Networks</title>
+      <link>/publication/dblp-confcvpr-kang-lxoylw-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dblp-confcvpr-kang-lxoylw-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Orientation Invariant Feature Embedding and Spatial Temporal Regularization for Vehicle Re-identification</title>
+      <link>/publication/dblp-conficcv-wang-tlyysywlw-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dblp-conficcv-wang-tlyysywlw-17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

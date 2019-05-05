@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yinan Yu on Junjie Yan</title>
+    <link>/authors/yinan-yu/</link>
+    <description>Recent content in Yinan Yu on Junjie Yan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="/authors/yinan-yu/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Object detection by labeling superpixels</title>
+      <link>/publication/dblp-confcvpr-yan-yzll-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dblp-confcvpr-yan-yzll-15/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

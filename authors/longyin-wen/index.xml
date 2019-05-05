@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Longyin Wen on Junjie Yan</title>
+    <link>/authors/longyin-wen/</link>
+    <description>Recent content in Longyin Wen on Junjie Yan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="/authors/longyin-wen/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Multiple Target Tracking Based on Undirected Hierarchical Relation Hypergraph</title>
+      <link>/publication/dblp-confcvpr-wen-lylyl-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dblp-confcvpr-wen-lylyl-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Fastest Deformable Part Model for Object Detection</title>
+      <link>/publication/dblp-confcvpr-yan-lwl-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dblp-confcvpr-yan-lwl-14/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

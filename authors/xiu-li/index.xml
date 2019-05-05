@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiu Li on Junjie Yan</title>
+    <link>/authors/xiu-li/</link>
+    <description>Recent content in Xiu Li on Junjie Yan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="/authors/xiu-li/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Scale-Aware Face Detection</title>
+      <link>/publication/dblp-confcvpr-hao-lqylh-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dblp-confcvpr-hao-lqylh-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joint Training of Cascaded CNN for Face Detection</title>
+      <link>/publication/dblp-confcvpr-qin-ylh-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dblp-confcvpr-qin-ylh-16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

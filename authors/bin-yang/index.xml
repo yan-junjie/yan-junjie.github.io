@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bin Yang on Junjie Yan</title>
+    <link>/authors/bin-yang/</link>
+    <description>Recent content in Bin Yang on Junjie Yan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="/authors/bin-yang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Crafting GBD-Net for Object Detection</title>
+      <link>/publication/dblp-journalspami-zeng-oylxwlzywzw-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dblp-journalspami-zeng-oylxwlzywzw-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T-CNN: Tubelets With Convolutional Neural Networks for Object Detection From Videos</title>
+      <link>/publication/dblp-journalstcsv-kang-lyzyxzwwwo-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dblp-journalstcsv-kang-lyzyxzwwwo-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CRAFT Objects from Images</title>
+      <link>/publication/dblp-confcvpr-yang-yll-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dblp-confcvpr-yang-yll-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gated Bi-directional CNN for Object Detection</title>
+      <link>/publication/dblp-confeccv-zeng-oyyw-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dblp-confeccv-zeng-oyyw-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolutional Channel Features</title>
+      <link>/publication/dblp-conficcv-yang-yll-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dblp-conficcv-yang-yll-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fine-grained evaluation on face detection in the wild</title>
+      <link>/publication/dblp-conffgr-yang-yll-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dblp-conffgr-yang-yll-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aggregate channel features for multi-view face detection</title>
+      <link>/publication/dblp-conficb-yang-yll-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dblp-conficb-yang-yll-14/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

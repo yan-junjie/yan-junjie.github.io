@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Feng Liang on Junjie Yan</title>
+    <link>/authors/feng-liang/</link>
+    <description>Recent content in Feng Liang on Junjie Yan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="/authors/feng-liang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fully Quantized Network for Object Detection</title>
+      <link>/publication/dblp-confcvprlilqwfy-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dblp-confcvprlilqwfy-19/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

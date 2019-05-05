@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiaoou Tang on Junjie Yan</title>
+    <link>/authors/xiaoou-tang/</link>
+    <description>Recent content in Xiaoou Tang on Junjie Yan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="/authors/xiaoou-tang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>FaceID-GAN: Learning a Symmetry Three-Player GAN for Identity-Preserving Face Synthesis</title>
+      <link>/publication/dblp-confcvpr-shen-0-ywt-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dblp-confcvpr-shen-0-ywt-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DeepID-Net: Object Detection with Deformable Part Based Convolutional Neural Networks</title>
+      <link>/publication/dblp-journalspami-ouyang-zwqltlywl-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dblp-journalspami-ouyang-zwqltlywl-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recurrent Scale Approximation for Object Detection in CNN</title>
+      <link>/publication/dblp-conficcv-liu-lywwt-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dblp-conficcv-liu-lywwt-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spindle Net: Person Re-identification with Human Body Region Guided Feature Decomposition and Fusion</title>
+      <link>/publication/dblp-confcvpr-zhao-tssyywt-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dblp-confcvpr-zhao-tssyywt-17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

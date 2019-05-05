@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yong Li on Junjie Yan</title>
+    <link>/authors/yong-li/</link>
+    <description>Recent content in Yong Li on Junjie Yan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="/authors/yong-li/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Objectness-aware Semantic Segmentation</title>
+      <link>/publication/dblp-confmm-wang-llyl-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dblp-confmm-wang-llyl-16/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

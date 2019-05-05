@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kai Kang on Junjie Yan</title>
+    <link>/authors/kai-kang/</link>
+    <description>Recent content in Kai Kang on Junjie Yan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="/authors/kai-kang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>T-CNN: Tubelets With Convolutional Neural Networks for Object Detection From Videos</title>
+      <link>/publication/dblp-journalstcsv-kang-lyzyxzwwwo-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dblp-journalstcsv-kang-lyzyxzwwwo-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Object Detection in Videos with Tubelet Proposal Networks</title>
+      <link>/publication/dblp-confcvpr-kang-lxoylw-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dblp-confcvpr-kang-lxoylw-17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

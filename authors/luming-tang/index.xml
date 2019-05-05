@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luming Tang on Junjie Yan</title>
+    <link>/authors/luming-tang/</link>
+    <description>Recent content in Luming Tang on Junjie Yan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="/authors/luming-tang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Orientation Invariant Feature Embedding and Spatial Temporal Regularization for Vehicle Re-identification</title>
+      <link>/publication/dblp-conficcv-wang-tlyysywlw-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dblp-conficcv-wang-tlyysywlw-17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

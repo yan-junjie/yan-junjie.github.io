@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hongyang Li on Junjie Yan</title>
+    <link>/authors/hongyang-li/</link>
+    <description>Recent content in Hongyang Li on Junjie Yan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="/authors/hongyang-li/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DeepID-Net: Object Detection with Deformable Part Based Convolutional Neural Networks</title>
+      <link>/publication/dblp-journalspami-ouyang-zwqltlywl-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dblp-journalspami-ouyang-zwqltlywl-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recurrent Scale Approximation for Object Detection in CNN</title>
+      <link>/publication/dblp-conficcv-liu-lywwt-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dblp-conficcv-liu-lywwt-17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

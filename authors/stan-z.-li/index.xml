@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stan Z. Li on Junjie Yan</title>
+    <link>/authors/stan-z.-li/</link>
+    <description>Recent content in Stan Z. Li on Junjie Yan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="/authors/stan-z.-li/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>CRAFT Objects from Images</title>
+      <link>/publication/dblp-confcvpr-yang-yll-16/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dblp-confcvpr-yang-yll-16/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Convolutional Channel Features</title>
+      <link>/publication/dblp-conficcv-yang-yll-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dblp-conficcv-yang-yll-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discriminative 3D morphable model fitting</title>
+      <link>/publication/dblp-conffgr-zhu-yyll-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dblp-conffgr-zhu-yyll-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fine-grained evaluation on face detection in the wild</title>
+      <link>/publication/dblp-conffgr-yang-yll-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dblp-conffgr-yang-yll-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-fidelity Pose and Expression Normalization for face recognition in the wild</title>
+      <link>/publication/dblp-confcvpr-zhu-lyyl-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dblp-confcvpr-zhu-lyyl-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Object detection by labeling superpixels</title>
+      <link>/publication/dblp-confcvpr-yan-yzll-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dblp-confcvpr-yan-yzll-15/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Aggregate channel features for multi-view face detection</title>
+      <link>/publication/dblp-conficb-yang-yll-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dblp-conficb-yang-yll-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Face detection by structural models</title>
+      <link>/publication/dblp-journalsivc-yan-zll-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dblp-journalsivc-yan-zll-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple Target Tracking Based on Undirected Hierarchical Relation Hypergraph</title>
+      <link>/publication/dblp-confcvpr-wen-lylyl-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dblp-confcvpr-wen-lylyl-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Salient Color Names for Person Re-identification</title>
+      <link>/publication/dblp-confeccv-yang-yylyl-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dblp-confeccv-yang-yylyl-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stacked Deformable Part Model with Shape Regression for Object Part Localization</title>
+      <link>/publication/dblp-confeccv-yan-lyl-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dblp-confeccv-yan-lyl-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Fastest Deformable Part Model for Object Detection</title>
+      <link>/publication/dblp-confcvpr-yan-lwl-14/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dblp-confcvpr-yan-lwl-14/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Multi-resolution Pedestrian Detection in Traffic Scenes</title>
+      <link>/publication/dblp-confcvpr-yan-zlll-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dblp-confcvpr-yan-zlll-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Structural models for face detection</title>
+      <link>/publication/dblp-conffgr-yan-zlyl-13/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dblp-conffgr-yan-zlyl-13/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-pedestrian detection in crowded scenes: A global view</title>
+      <link>/publication/dblp-confcvpr-yan-lyl-12/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dblp-confcvpr-yan-lyl-12/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

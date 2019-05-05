@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kun Wang on Junjie Yan</title>
+    <link>/authors/kun-wang/</link>
+    <description>Recent content in Kun Wang on Junjie Yan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="/authors/kun-wang/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Crafting GBD-Net for Object Detection</title>
+      <link>/publication/dblp-journalspami-zeng-oylxwlzywzw-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dblp-journalspami-zeng-oylxwlzywzw-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DeepID-Net: Object Detection with Deformable Part Based Convolutional Neural Networks</title>
+      <link>/publication/dblp-journalspami-ouyang-zwqltlywl-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/publication/dblp-journalspami-ouyang-zwqltlywl-17/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

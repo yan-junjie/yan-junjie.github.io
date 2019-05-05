@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Junjie Yan</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Junjie Yan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 May 2019 00:00:00 +0800</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>/project/deeplearning/</link>
+      <pubDate>Thu, 02 May 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/project/deeplearning/</guid>
+      <description>Works on Deep Learning.</description>
+    </item>
+    
+    <item>
+      <title>Face and Pedestrian</title>
+      <link>/project/facepedestrian/</link>
+      <pubDate>Thu, 02 May 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/project/facepedestrian/</guid>
+      <description>Works on Face and Pedestrain Recognition.</description>
+    </item>
+    
+    <item>
+      <title>Object Detection</title>
+      <link>/project/detection/</link>
+      <pubDate>Thu, 02 May 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/project/detection/</guid>
+      <description>Works on Object Detection.</description>
+    </item>
+    
+    <item>
+      <title>Visual Tracking</title>
+      <link>/project/tracking/</link>
+      <pubDate>Thu, 02 May 2019 00:00:00 +0800</pubDate>
+      
+      <guid>/project/tracking/</guid>
+      <description>Works on Visual Tracking.</description>
+    </item>
+    
+  </channel>
+</rss>
